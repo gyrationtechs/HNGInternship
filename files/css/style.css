@@ -101,7 +101,9 @@ span {
 	font-style: normal;
 	font-weight: bold;
 	line-height: normal;
-	font-size: 64px;
+	font-size: 30px;
+	letter-spacing: 0.03em;
+	text-indent: 6px;
 
-	color: #F2F2F2;
+	color: #212223;
 }
